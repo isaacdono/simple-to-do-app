@@ -41,7 +41,7 @@ ul {
     padding: 0;
 }
 ul li {
-    background: #f9f9f9;
+    background: #f1facf;
     margin: 5px 0;
     padding: 10px;
     border-radius: 3px;
@@ -51,6 +51,7 @@ ul li {
 }
 ul li span {
     flex: 1;
+    padding: 15px;;
 }
 ul li button {
     background: #dc3545;
